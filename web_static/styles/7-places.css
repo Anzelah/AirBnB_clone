@@ -1,0 +1,33 @@
+.places {
+	display: flex;
+	flex-direction: column;
+	padding-left: 30px;
+}
+ .places h1 {
+ 	font-size: 30px;
+ }
+article {
+	width: 390px;
+	margin: 20px;
+	padding: 20px;
+	border: 1px solid #FF5A5F;
+	border-radius: 4px;
+	text-align: center;
+	font-size: 30px;
+}
+
+.titles {
+	padding-top: 0px;
+	margin-bottom: -30px;
+}
+
+.placesnames {
+	display: flex;
+	justify-content: center;
+	flex-wrap:  wrap;
+}
+
+article h2 {
+	font-size: 30px;
+	margin-top: -25px;
+}
